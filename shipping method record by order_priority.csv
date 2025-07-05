@@ -1,0 +1,16 @@
+Order_Priority,Ship_Mode,Num_Orders,Estimated_shipping_Cost
+Critical,Delivery Truck,228,951341.7566
+Critical,Express Air,200,168999.4781
+Critical,Regular Air,1180,953919.2112
+High,Delivery Truck,248,1098965.804
+High,Express Air,212,185746.279
+High,Regular Air,1308,1115286.79
+Low,Delivery Truck,250,1128229.904
+Low,Express Air,190,165512.3731
+Low,Regular Air,1280,1186571.279
+Medium,Delivery Truck,205,836770.2122
+Medium,Express Air,201,186462.3501
+Medium,Regular Air,1225,1120692.385
+Not Specified,Delivery Truck,215,898474.8993
+Not Specified,Express Air,180,162998.0252
+Not Specified,Regular Air,1277,1028856.084
