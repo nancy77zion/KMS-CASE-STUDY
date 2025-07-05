@@ -58,6 +58,6 @@ Key insights were extracted using custom **SQL queries** to help KMS understand 
 - Monitor frequent returners to address product or service issues.
 - Use return trends by segment to improve product quality or customer experience
 
-**Prepared By:** *[EBERECHI NWANKUDU]*  
+**Prepared By:** *EBERECHI NWANKUDU*  
 **Date:** *July 05, 2025*  
 **Tool:** *Microsoft SQL Server*
